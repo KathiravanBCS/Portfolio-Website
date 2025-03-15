@@ -1,9 +1,9 @@
 
-#### **Project Description**  
+**Project Description**  
 A personal portfolio website built with React JS. Showcases projects, skills, and contact information with a modern and responsive design.
 
-#### **README**  
-```markdown
+ **README**  
+
 # Portfolio Website
 
 A personal portfolio website built with React JS. Showcases projects, skills, and contact information with a modern and responsive design.
